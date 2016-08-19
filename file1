@@ -2,6 +2,7 @@
 #include<string.h>
 int main()
 {
+int a,b,c;
 cout<<"THIS IS ESDL LAB";
 cout<<"C2";
 cout<<"This is for Addition of two numbers";
