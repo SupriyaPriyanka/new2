@@ -3,5 +3,9 @@
 int main()
 {
 cout<<"THIS IS ESDL LAB";
+cout<<"C2";
+cout<<"This is for Addition of two numbers";
+a+b=c;
+cout<<"Ans is ="<<c;
 return 0;
 }
